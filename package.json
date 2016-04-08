@@ -1,0 +1,6 @@
+{
+  "name": "fulcrum-site",
+  "version": "1.0.0",
+  "description": "Site Specific Plugin - This plugin is an addon for Fulcrum",
+  "devDependencies": {}
+}

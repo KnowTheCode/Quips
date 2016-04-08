@@ -1,0 +1,1 @@
+<div class="quip<?php echo $class; ?>"><?php echo $content; ?></div>
